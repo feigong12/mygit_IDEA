@@ -1,5 +1,6 @@
-��ã�Helloworld
-��һ���ύmygit�ɹ���
-git�û�dev���ύ���
-�ɹ���½GitHub
+你好，Helloworld
+第一次提交mygit成功了
+git用户dev的提交结果
+成功登陆GitHub
+第五次提交git  从远程端GitHub传送到本地端
 
